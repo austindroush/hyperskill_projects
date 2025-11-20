@@ -1,2 +1,2 @@
-# Hyperskill_Projects
+# hyperskill_projects
 Solutions to Hyperskill projects
